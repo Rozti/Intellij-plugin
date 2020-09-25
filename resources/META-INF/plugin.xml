@@ -1,0 +1,39 @@
+<idea-plugin url="www.jetbrains.com">
+  <id>org.jetbrains.plugins.sample.EditorBasics</id>
+  <name>Editor basics</name>
+  <version>1.0</version>
+  <vendor email="support@jetbrains.com" url="http://www.jetbrains.com">JetBrains</vendor>
+
+  <description>Illustration of Editor's basics</description>
+
+  <change-notes>Initial commit</change-notes>
+
+  <idea-version since-build="131"/>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+  </extensions>
+
+  <application-components>
+  </application-components>
+
+  <project-components>
+    <component>
+      <implementation-class>utilities.SessionComponent</implementation-class>
+    </component>
+  </project-components>
+
+  <actions>
+    <action id="EditorBasics.KeyReading"
+            class="KeyReading"
+            text="KeyReading"
+            description="Start Processing Key Events">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+    </action>
+    <action id="EmotionsForm" class="utilities.EmotionsForm" text="Statistics" description="Statistics">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl D" />
+    </action>
+  </actions>
+
+</idea-plugin>

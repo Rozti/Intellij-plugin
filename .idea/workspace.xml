@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02c6c24a-8d96-4482-8ab9-41df69208773" name="Default" comment="Ostatnie poprawki">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/BackUpLogTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/BackUpLogTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/SessionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/SessionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/SimpleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/SimpleLogger.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1194932788">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="74" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="74" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="4879" />
+          <entry key="txt" value="698" />
+          <entry key="xml" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4879" />
+          <entry key="PLAIN_TEXT" value="714" />
+          <entry key="XML" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="BackUpLogTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/BackUpLogTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="23" selection-start-line="19" selection-start-column="2" selection-end-line="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckAverages.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/CheckAverages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/SessionComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/Consts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyPressedTimer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/KeyPressedTimer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLogger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utilities/SimpleLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyReading.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KeyReading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/ConnectionManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5* 60</find>
+      <find>case</find>
+      <find>:</find>
+      <find>: count</find>
+      <find>createchilddi</find>
+      <find>sendToSerwer</find>
+      <find>KONIEC</find>
+      <find>main</find>
+      <find>run</find>
+      <find>&quot;SPACE&quot;</find>
+      <find>&quot;BACKSPACE&quot;</find>
+      <find>&quot;ENTER&quot;</find>
+      <find>&quot;HOME&quot;</find>
+      <find>&quot;END&quot;</find>
+      <find>&quot;PAGE_UP&quot;</find>
+      <find>&quot;PAGE_DOWN&quot;</find>
+      <find>&quot;INSERT&quot;</find>
+      <find>&quot;DELETE&quot;</find>
+      <find>&quot;ARROW_R&quot;</find>
+      <find>&quot;ARROW_L&quot;</find>
+      <find>&quot;ARROW_U&quot;</find>
+      <find>&quot;ARROW_D&quot;</find>
+      <find>&quot;ALT&quot;</find>
+      <find>&quot;SHIFT&quot;</find>
+      <find>&quot;CAPS&quot;</find>
+      <find>&quot;NUM&quot;</find>
+      <find>&quot;TAB&quot;</find>
+      <find>&quot;ESC&quot;</find>
+      <find>&quot;CTR&quot;</find>
+      <find>&quot;CHAR&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/EditorIllustration.java" />
+        <option value="$PROJECT_DIR$/src/resources/keyCondition.java" />
+        <option value="$PROJECT_DIR$/src/resources/isChar.java" />
+        <option value="$PROJECT_DIR$/src/resources/isMovement.java" />
+        <option value="$PROJECT_DIR$/src/resources/KeyInfo.java" />
+        <option value="$PROJECT_DIR$/src/resources/ListFixedLength.java" />
+        <option value="$PROJECT_DIR$/src/resources/Output.java" />
+        <option value="$PROJECT_DIR$/src/resources/ListFixedLengthWithPredicate.java" />
+        <option value="$PROJECT_DIR$/src/utilities/MyLogger.java" />
+        <option value="$PROJECT_DIR$/src/utilities/SaveLog.java" />
+        <option value="$PROJECT_DIR$/src/resources/Timer.java" />
+        <option value="$PROJECT_DIR$/src/resources/KeyPressedTimer.java" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/utilities/CheckAverages.java" />
+        <option value="$PROJECT_DIR$/src/utilities/EmotionsForm.java" />
+        <option value="$PROJECT_DIR$/src/KeyReading.java" />
+        <option value="$PROJECT_DIR$/src/resources/KeyTimer.java" />
+        <option value="$PROJECT_DIR$/src/utilities/KeyPressedTimer.java" />
+        <option value="$PROJECT_DIR$/src/utilities/BackUpLogTask.java" />
+        <option value="$PROJECT_DIR$/src/utilities/SessionComponent.java" />
+        <option value="$PROJECT_DIR$/src/utilities/ConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/utilities/SimpleLogger.java" />
+        <option value="$PROJECT_DIR$/src/resources/Consts.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="186" />
+    <option name="y" value="-19" />
+    <option name="width" value="1218" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praca-inzynierska" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praca-inzynierska" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544103192742" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../praca-inzynierska-local" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="resources.Consts" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/resources/Consts.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/utilities/ConnectionManager.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/utilities/SimpleLogger.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="Praca inzynierska" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="Praca inzynierska" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02c6c24a-8d96-4482-8ab9-41df69208773" name="Default" comment="" />
+      <created>1523216913499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523216913499</updated>
+      <workItem from="1523216920516" duration="309000" />
+      <workItem from="1523217417527" duration="465000" />
+      <workItem from="1523217903939" duration="2119000" />
+      <workItem from="1523565250575" duration="886000" />
+    </task>
+    <task id="LOCAL-00001" summary="Wyskakujące okienko&#10;Tworzenie statystyk naciśnięć klawiszy&#10;Zapisywanie statystyk do loga">
+      <created>1542463776065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542463776065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lista, która trzyma tylko n elementów (po dodaniu, zerowy element zostaje usunięty, jeżeli osiągneliśmy już zadany rozmiar">
+      <created>1542881466253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542881466253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Zbieranie średnich co ustalony czas (30s)&#10;Wyświetlanie okienka jeżeli ostatnio zebrana średnia jest większa niż poprzednie 5 (zależne od długości listy, jest ustawiona na 5)&#10;wpisywanie tych danych do logu">
+      <created>1542974496087</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542974496087</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactor zebierania średnich&#10;Usunięcie zakomentowanych kawałków kodu&#10;Zmiana nazwy klasy odpowiadającej za czytanie klawiszy&#10;Usunięcie niepotrzebnych enterów">
+      <created>1544099422403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544099422403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactor Loggera&#10;Usunięcie zakomentowanych kawałków kodu&#10;Zmiana nazwy klas: MyLogger, SaveLog&#10;Przeniesienie funckji typedKey do Consts&#10;Usunięcie niepotrzebnych enterów&#10;Usunięcie pliku &quot;testgita&quot;">
+      <created>1544207552493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544207552494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Zmiana nazwy naszego Timera na KeyPressedTimer, oraz przeniesienie go do katalogu utilities">
+      <created>1544208889461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544208889461</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Usunięcie niepotrzebnego już komentarza">
+      <created>1544209233783</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544209233783</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Usunięcie niepotrzebnych komentarzy&#10;Zmiana nazwy metody zlecającej cykliczne wywołanie">
+      <created>1544211236323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544211236323</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Usunięcie niepotrzebnych komentarzy&#10;Zmiana błędnego typu stałej fDELAY">
+      <created>1544213239626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544213239626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Usunięcie niepotrzebnego kodu">
+      <created>1544213965728</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544213965728</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Usunięcie niepotrzebnego kodu">
+      <created>1544214048458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544214048458</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Usunięcie niepotrzebnego kodu&#10;Przerzucenie nazw klawiszy do stałych">
+      <created>1544268931645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544268931646</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Usunięcie niepotrzebnego kodu">
+      <created>1544269630468</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544269630468</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.32990867" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4936034" visible="true" weight="0.41509435" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5063966" side_tool="true" visible="true" weight="0.41509435" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.7638593" weight="0.0067039104" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4978678" weight="0.31853497" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4978678" weight="0.32960895" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.5645439" visible="true" weight="0.15511727" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.48507464" weight="0.32852387" />
+      <window_info id="Structure" order="5" sideWeight="0.4354561" side_tool="true" weight="0.19011815" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49093816" weight="0.3207547" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="JetGradle" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="12" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24966443" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32943678" />
+      <window_info anchor="right" id="JetGradle" order="7" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Profiler" order="12" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33769062" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32077625" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.6703755" visible="true" weight="0.19011815" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32943678" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.32306057" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#commit message testowy" />
+    <MESSAGE value="pierwszy sprint" />
+    <MESSAGE value="Dodanie klasy stałych." />
+    <MESSAGE value="Uporządkowanie projektu." />
+    <MESSAGE value="Przerobienie timera i logera na singletony." />
+    <MESSAGE value="Dodanie handlerow na enter i backspace." />
+    <MESSAGE value="Dodanie menadżera połączenia z serwerem." />
+    <MESSAGE value="Dodanie obsługi dowolnego klawisza i event przy zamykaniu projektu." />
+    <MESSAGE value="Reakcja tylko na wciśnięcie przycisku." />
+    <MESSAGE value="Opis wpisanych przycisków + oczyszczenie kodu." />
+    <MESSAGE value="Funkcjonalność BackUp'a i eventu wywoływanego co określony czas" />
+    <MESSAGE value="Wyskakujące okienko&#10;Tworzenie statystyk naciśnięć klawiszy&#10;Zapisywanie statystyk do loga" />
+    <MESSAGE value="Lista, która trzyma tylko n elementów (po dodaniu, zerowy element zostaje usunięty, jeżeli osiągneliśmy już zadany rozmiar" />
+    <MESSAGE value="Zbieranie średnich co ustalony czas (30s)&#10;Wyświetlanie okienka jeżeli ostatnio zebrana średnia jest większa niż poprzednie 5 (zależne od długości listy, jest ustawiona na 5)&#10;wpisywanie tych danych do logu" />
+    <MESSAGE value="Refactor zebierania średnich&#10;Usunięcie zakomentowanych kawałków kodu&#10;Zmiana nazwy klasy odpowiadającej za czytanie klawiszy&#10;Usunięcie niepotrzebnych enterów" />
+    <MESSAGE value="Refactor Loggera&#10;Usunięcie zakomentowanych kawałków kodu&#10;Zmiana nazwy klas: MyLogger, SaveLog&#10;Przeniesienie funckji typedKey do Consts&#10;Usunięcie niepotrzebnych enterów&#10;Usunięcie pliku &quot;testgita&quot;" />
+    <MESSAGE value="Zmiana nazwy naszego Timera na KeyPressedTimer, oraz przeniesienie go do katalogu utilities" />
+    <MESSAGE value="Usunięcie niepotrzebnego już komentarza" />
+    <MESSAGE value="Usunięcie niepotrzebnych komentarzy&#10;Zmiana nazwy metody zlecającej cykliczne wywołanie" />
+    <MESSAGE value="Usunięcie niepotrzebnych komentarzy&#10;Zmiana błędnego typu stałej fDELAY" />
+    <MESSAGE value="Usunięcie niepotrzebnego kodu&#10;Przerzucenie nazw klawiszy do stałych" />
+    <MESSAGE value="Usunięcie niepotrzebnego kodu" />
+    <MESSAGE value="Zmniejszenie szerokosci kodu" />
+    <MESSAGE value="Ostatnie poprawki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ostatnie poprawki" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+        <watch expression="System.getProperty(&quot;user.dir&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>System.getProperty(&quot;user.dir&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/ConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/SessionComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/ListFixedLengthWithPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/KeyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/ListFixedLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/EmotionsForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/KeyTimer.java" />
+    <entry file="file://$PROJECT_DIR$/src/utilities/KeyPressedTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KeyReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Consts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/CheckAverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/BackUpLogTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/event/KeyEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/EditorIllustration.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collection.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/event/KeyEvent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/isChar.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/isMovement.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8090">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TimerTask.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/openapi/vfs/VirtualFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="240" column="36" selection-start-line="240" selection-start-column="23" selection-end-line="240" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/TimerTask.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/openapi/components/NamedComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/openapi/components/BaseComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/ListFixedLengthWithPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/KeyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/ListFixedLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/EmotionsForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/KeyTimer.java" />
+    <entry file="file://$PROJECT_DIR$/src/utilities/KeyTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KeyReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="19" selection-start-column="2" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/KeyPressedTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/openapi/components/ProjectComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/ConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/BackUpLogTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/CheckAverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/SessionComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Consts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Praca inzynierska</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
